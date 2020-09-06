@@ -1,0 +1,45 @@
+/*------------------------- Tag styles-----------------*/
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #cbf1f5;
+}
+
+li {
+  float: Left;
+}
+
+li a {
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 2px 15px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #a6e3e9;
+}
+/*---------------------class-----------------------------*/
+.thick {
+  font-weight: bold;
+}
+
+.active {
+  background-color: #71c9ce;
+}
+.topheader{
+  padding-left: 1550px;
+  height: 10px;
+  }
+.topheader1{
+  padding-left: 1050px;
+}
+
+
+
+
+
+/*----------------------------ID styles---------------------*/

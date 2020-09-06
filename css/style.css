@@ -1,14 +1,21 @@
-body{
-background-color: #e3fdfd;
+/*-------------- Tag Style--------------------*/
+body {
+  margin: 0;
+  background-color: #e3fdfd;
 }
 
-hr{
-border-style: none;
-border-top-style:dotted;
-border-color: grey;
-border-width:5px;
-width:80%;
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 80%;
 }
-img{
-background-color: #e3fdfd;
+
+img {
+  background-color: #e3fdfd;
 }
+
+/* -------------------- Class Style---------------*/
+
+/*---------------------  ID Style ---------------*/

@@ -26,16 +26,15 @@ li a:hover:not(.active) {
 .thick {
   font-weight: bold;
 }
-
 .active {
   background-color: #71c9ce;
 }
 .topheader{
-  padding-left: 1550px;
+  padding-left: 1400px;
   height: 10px;
   }
 .topheader1{
-  padding-left: 1050px;
+  padding-left: 900px;
 }
 
 
